@@ -16,7 +16,10 @@ public class HelloWorld {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        int x = 5, y =10;
+        int suma = x + y;
         System.out.println("Hola Mundo!!! Les dice Cristobal Mujica");
+        System.out.println(suma);
     }
     
 }
